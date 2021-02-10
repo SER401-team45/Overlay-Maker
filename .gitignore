@@ -1,0 +1,15 @@
+# IDE specific files
+.idea/
+
+# python cache
+__pycache__/
+
+# keras tuner subfolder
+checkpoints/
+
+# weight files (too big for github)
+*.weights
+
+# test video files
+*.mp4
+*.mov
